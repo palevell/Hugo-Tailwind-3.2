@@ -1,0 +1,8 @@
+#+TITLE: {{ replace .Name "-" " " | title }}
+#+AUTHOR: Patrick Allan
+#+DATE: {{ .Date }}
+#+LASTMOD: 2023-02-14 10:21:44-0500 (EST)
+#+CATEGORIES[]: 
+#+TAGS[]: 
+#+DRAFT: true
+

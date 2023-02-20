@@ -1,12 +1,11 @@
-baseURL = '/'
-languageCode = 'en-us'
-title = 'Hugo & Tailwind 3.0'
+# baseURL = "http://levell.tech/~patrick"
+baseURL = "http://levell.tech"
+languageCode = "en-us"
+title = "Hugo & Tailwind 3.0"
 disableKinds = ["taxonomy","taxonomyTerm"]
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup.goldmark.renderer]
+    unsafe = true
 
 
 

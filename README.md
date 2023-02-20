@@ -13,7 +13,7 @@
 `npm run build`
 
 **npm run start** will run two commands parallel:  
-`npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css --watch`
+`npx tailwindcss -i ./assets/css/input.css -o ./assets/css/style.css --watch`
 
 and
 `hugo server`
